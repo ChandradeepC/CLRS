@@ -1,2 +1,2 @@
 # CLRS
-CLRS data structures and algorithms implementations in python3
+Correct implementations of CLRS data structures and algorithms in python.
